@@ -4,7 +4,6 @@ This is the official Pytorch implementation of
 "[Multi-layered tensor networks for image classification](https://arxiv.org/abs/2005.10052)", Raghavendra Selvan et al. 2020
 
 ![lotenet](models/model.png)
-### What is this repository for? ###
 
 ### What is this repository for? ###
 
@@ -18,7 +17,7 @@ This is the official Pytorch implementation of
 * Tested on Pytorch 1.3, Python 3.6 
 * Download the data from [here](https://bitbucket.org/raghavian/lotenet_pytorch/src/master/data/lidc.zip)
 * Unzip the data and point the path to --data_path
-* How to run tests: python train.py --data_path data_location
+* How to run tests: python train.py --data_path data_location --mltn --bn 
 
 ### Usage guidelines ###
 
