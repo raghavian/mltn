@@ -29,6 +29,7 @@ This is the official Pytorch implementation of
   author={Raghavendra Selvan, Silas Ørting and Erik B Dam},
   howpublished={First Workshop on Quantum Tensor Networks in Machine Learning. In conjunction with 34th NeurIPS},
   month={Dec},
+  url={https://arxiv.org/abs/2009.12280},
   note={arXiv:2007.03051},
   year={2020}}
 ```
