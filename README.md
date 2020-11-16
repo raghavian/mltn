@@ -1,9 +1,9 @@
 # README #
 
 This is the official Pytorch implementation of 
-"[Multi-layered tensor networks for image classification](https://arxiv.org/abs/2005.10052)", Raghavendra Selvan et al. 2020
+"[Multi-layered tensor networks for image classification](https://arxiv.org/abs/2011.06982)", Raghavendra Selvan et al. 2020
 
-![lotenet](models/model.png)
+![MLTN](models/model.png)
 
 ### What is this repository for? ###
 
@@ -29,8 +29,8 @@ This is the official Pytorch implementation of
   author={Raghavendra Selvan, Silas Ørting and Erik B Dam},
   howpublished={First Workshop on Quantum Tensor Networks in Machine Learning. In conjunction with 34th NeurIPS},
   month={Dec},
-  url={https://arxiv.org/abs/2009.12280},
-  note={arXiv:2007.03051},
+  url={https://arxiv.org/abs/2011.06982},
+  note={arXiv:2011.06982},
   year={2020}}
 ```
 
